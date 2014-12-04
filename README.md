@@ -20,3 +20,4 @@ TO DO LIST:
 - [ ] Option to install the Minecraft server to /opt/mcserver (or a specified directory)
 - [ ] Option to download the latest version of Java and the Minecraft server before installation
 - [ ] Change a few permissions
+- [ ] Make it a bit (okay, a lot) more user friendly
