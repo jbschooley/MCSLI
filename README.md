@@ -14,7 +14,8 @@ sudo chmod +x start.sh
 
 Currently this only works on Debian/Ubuntu. If you want to use it on Fedora/SUSE, you'll need to make some changes to install.sh.
 
-TO DO LIST:
+To do:
+--------------
 - [ ] Fedora/SUSE support
 - [ ] Option to install Java to /opt/oracle/java/jre (or a specified directory)
 - [ ] Option to install the Minecraft server to /opt/mcserver (or a specified directory)
